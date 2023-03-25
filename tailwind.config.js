@@ -11,7 +11,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        reactBlue: "#5ED4F3",
+        twblue: "#00aaee",
       },
     },
   },
