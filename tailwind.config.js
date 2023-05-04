@@ -8,12 +8,5 @@ module.exports = {
     // Or if using `src` directory:
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
-  theme: {
-    extend: {
-      colors: {
-        twblue: "#00aaee",
-      },
-    },
-  },
   plugins: [],
 };
